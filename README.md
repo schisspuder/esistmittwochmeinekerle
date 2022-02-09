@@ -17,4 +17,6 @@ Bewegen: W S A D
 Map zoom: ctrl+mausrad 
 
 
-![Screenshot (10)](https://user-images.githubusercontent.com/98223308/153207207-4b28a174-f1fa-467a-8bdc-d58149a24c43.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/98223308/153207454-b3240414-fa86-493b-a4bd-1b6e11b9d40c.png)
+
+
