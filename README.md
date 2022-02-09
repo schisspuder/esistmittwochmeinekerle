@@ -15,3 +15,6 @@ Schritt 3: Zoggen
 Bewegen: W S A D 
 
 Map zoom: ctrl+mausrad 
+
+
+![Screenshot (10)](https://user-images.githubusercontent.com/98223308/153207207-4b28a174-f1fa-467a-8bdc-d58149a24c43.png)
