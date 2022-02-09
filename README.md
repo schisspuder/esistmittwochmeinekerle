@@ -9,3 +9,9 @@ Schritt 1: Download den Ordner
 Schritt 2: Öffne die "index.html" Datei
 
 Schritt 3: Zoggen
+
+## Steuerung
+
+Bewegen: W S A D 
+
+Map zoom: ctrl+mausrad 
