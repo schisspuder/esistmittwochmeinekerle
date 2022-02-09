@@ -4,8 +4,8 @@ Es gibt noch viele andere Tiere die auch Hunger haben. Bist du der Boss im Teich
 
 Wie spiele ich ? 
 
-Schritt 1:
+Schritt 1: Download den Ordner
 
-Schritt 2:
+Schritt 2: Öffne die "index.html" Datei
 
-Schritt 3:
+Schritt 3: Zoggen
